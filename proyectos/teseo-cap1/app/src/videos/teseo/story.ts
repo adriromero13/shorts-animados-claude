@@ -22,7 +22,7 @@ export type ShotDef = { id: number; a: number; b: number; light: Light; sun: [nu
 // ---- el camino del laberinto ----
 const at = (u: number, y: number): V3 => { const p = CURVE.getPointAt(clamp01(u)); return [p.x, y, p.z]; };
 const M = 1 / CURVE_LEN; // un metro en unidades de u
-export const U_RUN_A = uOfCell(RUN.a), U_RUN_B = uOfCell(RUN.b);
+export const U_RUN_A = uOfCell(RUN.a), U_RUN_B = uOfCell(RUN.b), U_HOOK0 = uOfCell(Math.max(0, RUN.a - 6));
 /** Teseo con la antorcha: de la celda 24 a la 30 del camino, se para en «Espera» (1217) */
 export const TESEO_U0 = uOfCell(Math.min(24, PATH.length - 8)), TESEO_U1 = uOfCell(Math.min(30, PATH.length - 5));
 export const FREEZE = 1217;
@@ -36,11 +36,16 @@ export const GATE_Z = HALF;
 export const SHOTS: ShotDef[] = [
   // 1. Gancho: corremos por los pasillos; al final, un pasillo recto y el Minotauro al fondo, lejos
   { id: 1, a: 0, b: 191, light: "golden", sun: [25, 40], cam: (f) => {
-    const run = smoother(f / 168) * U_RUN_A, ahead = at(run + 3 * M, 1.6);
+    const run = lerp(U_HOOK0, U_RUN_A, smoother(f / 168)), p = at(run, 1.7);
+    // dirección suavizada: media de las tangentes de los próximos 4 m (no mirar de frente a los muros en las esquinas)
+    let dx = 0, dz = 0;
+    for (let k = 0; k <= 8; k++) { const t = CURVE.getTangentAt(clamp01(run + k * 0.5 * M)); dx += t.x; dz += t.z; }
+    const n = Math.hypot(dx, dz) || 1;
+    const ahead: V3 = [p[0] + (dx / n) * 8, 1.6, p[2] + (dz / n) * 8];
     const end = at(U_RUN_B, 2.2), k = smooth((f - 150) / 22);
     const look = lerp3(ahead, end, k);
     const push = smooth((f - 168) / 23) * 1.2 * M;
-    return { pos: at(run + push, 1.7), look, fov: lerp(52, 44, k) };
+    return { pos: at(run + push, 1.7), look, fov: lerp(50, 44, k) };
   } },
   // 2. Atenas: Egeo en su trono; Teseo levanta la roca y saca la espada; los bandidos vencidos en el camino
   { id: 2, a: 191, b: 487, light: "day", sun: [70, 46], keys: [

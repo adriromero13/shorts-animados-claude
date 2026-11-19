@@ -198,7 +198,7 @@ export class World {
       const sail = new THREE.PlaneGeometry(5.4, 4.6, 8, 4), sp = sail.attributes.position;
       for (let i = 0; i < sp.count; i++) sp.setZ(i, 0.35 * Math.cos((sp.getX(i) / 2.7) * Math.PI / 2));
       sail.computeVertexNormals();
-      add(sail.rotateY(Math.PI / 2).translate(sx + 0.3, 5.3, sz), lam({ color: "#1e1820", side: THREE.DoubleSide }));
+      add(sail.rotateY(Math.PI / 2).translate(sx + 0.3, 5.3, sz), new THREE.MeshBasicMaterial({ color: "#16121a", side: THREE.DoubleSide }));
       for (let k = 0; k < 7; k++) add(new THREE.CylinderGeometry(0.05, 0.05, 2.6, 6).rotateZ(1.1).translate(sx + 1.8, 0.2, sz - 3.6 + k * 1.2), wood);
     }
     // colinas
@@ -226,8 +226,8 @@ export class World {
       // el trono de Egeo sobre un estrado, delante del templo
       add(box(4.4, 0.9, 3.2, AX, 0.45, -6.6), marble2);
       add(box(1.6, 0.5, 1.2, AX, 1.15, -6.6), lam({ color: "#c98f3e" }));
-      add(box(1.6, 2.6, 0.3, AX, 2.2, -7.2), lam({ color: "#c98f3e" }));
-      add(box(1.9, 0.3, 0.4, AX, 3.55, -7.2), lam({ color: "#e8c45a" }));
+      add(box(1.4, 1.7, 0.25, AX, 1.75, -7.2), lam({ color: "#c98f3e" }));
+      add(box(1.6, 0.25, 0.35, AX, 2.65, -7.2), lam({ color: "#e8c45a" }));
       // olivos
       for (let k = 0; k < 9; k++) {
         const x = AX - 30 + k * 7.5 + hh(k, 40) * 3, z = -26 - hh(k, 41) * 14;
@@ -373,7 +373,7 @@ export class World {
       mino(p.x, p.z, 1.3, { shadow: 0.75, eyes: 1, expr: "stern" });
     }
     if (id === 2) {
-      person("egeo", EGEO, AX, 0.9, -6.3, { mode: "sit", expr: f > 253 ? "neutral" : "stern", facing: 0, look: 0 }, 1);
+      person("egeo", EGEO, AX, 0.95, -6.25, { mode: "sit", expr: f > 253 ? "neutral" : "stern", facing: 0, look: 0 }, 1, 1.25);
       // Teseo y la roca
       const lift = smooth((f - 305) / 24) * (1 - smooth((f - 352) / 14)), toss = smooth((f - 352) / 14);
       const sword = f >= 379;
