@@ -62,8 +62,21 @@ export const minotauro = (p: Pen, o: MinoOpts) => {
   const s = Math.max(0, Math.min(1, o.shadow ?? 0)), light = o.light ?? -2.1;
   const SH = "#1b1424";
   const col = mix(BULL, SH, s), dark = mix(BULL_SH, "#0b0810", s), horn = mix(HORN, "#2d2438", s), snout = mix(SNOUT, "#2a2032", s);
-  const body: Outfit = { jacket: col, pants: mix(BULL_SH, SH, s), boots: mix("#2a1a12", "#0b0810", s), skin: col, build: "stout", buttons: col };
+  // cuerpo HUMANO (piel morena, pecho descubierto, taparrabos) y cabeza de toro
+  const skin = mix("#c08a62", SH, s), skinD = mix("#8a5a3e", "#0b0810", s), cloth = mix("#5a3a2a", SH, s), belt = mix("#d9a441", "#2d2438", s);
+  const body: Outfit = { jacket: skin, pants: skin, boots: mix("#6b4a2a", "#0b0810", s), skin, build: "stout", buttons: skin };
   bodyFront(p, body, { mode: "stand", expr: "stern", ...o, light });
+  const u = 2.36, ow = 5 * u, x = 300;
+  // músculos: pectorales, abdomen y ombligo
+  for (const k of [-1, 1]) p.arc(x + k * 44, 478, 44, 26, 20, 160, 2.4 * u, skinD);
+  p.stroke([[x, 452], [x, 600]], 1.8 * u, skinD);
+  for (const y of [530, 568]) p.stroke([[x - 34, y], [x + 34, y]], 1.6 * u, skinD);
+  p.dot(x, 612, 4, skinD);
+  // taparrabos con cinturón dorado
+  const lc: P2[] = [[x - 104, 642], [x + 104, 642], [x + 86, 700], [x + 44, 770], [x, 744], [x - 44, 770], [x - 86, 700]];
+  p.shadedFill(lc, cloth, mix(cloth, INK, 0.35), light, 110);
+  p.poly(lc, null, ow * 0.8);
+  p.band([[x - 106, 650], [x + 106, 650]], belt, 22, 1.2 * u);
   bullHead(p, col, dark, horn, snout, o.eyes ?? s, light);
 };
 
