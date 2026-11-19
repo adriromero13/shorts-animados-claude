@@ -1,0 +1,1660 @@
+{
+ "audio": "audio/voz_final.wav",
+ "fps": 30,
+ "duracion": 74.585,
+ "cuadros_total": 2238,
+ "palabras": [
+  {
+   "palabra": "Teseo",
+   "inicio": 0.0,
+   "fin": 0.52,
+   "cuadro": 0,
+   "bloque": 0
+  },
+  {
+   "palabra": "mató",
+   "inicio": 0.52,
+   "fin": 0.8,
+   "cuadro": 16,
+   "bloque": 0
+  },
+  {
+   "palabra": "a",
+   "inicio": 0.8,
+   "fin": 0.96,
+   "cuadro": 24,
+   "bloque": 0
+  },
+  {
+   "palabra": "un",
+   "inicio": 0.96,
+   "fin": 1.08,
+   "cuadro": 29,
+   "bloque": 0
+  },
+  {
+   "palabra": "monstruo",
+   "inicio": 1.08,
+   "fin": 1.56,
+   "cuadro": 32,
+   "bloque": 0
+  },
+  {
+   "palabra": "mitad",
+   "inicio": 1.56,
+   "fin": 1.84,
+   "cuadro": 47,
+   "bloque": 0
+  },
+  {
+   "palabra": "toro.",
+   "inicio": 1.84,
+   "fin": 2.28,
+   "cuadro": 55,
+   "bloque": 0
+  },
+  {
+   "palabra": "Y",
+   "inicio": 2.5,
+   "fin": 2.56,
+   "cuadro": 75,
+   "bloque": 0
+  },
+  {
+   "palabra": "aun",
+   "inicio": 2.56,
+   "fin": 2.74,
+   "cuadro": 77,
+   "bloque": 0
+  },
+  {
+   "palabra": "así,",
+   "inicio": 2.74,
+   "fin": 3.02,
+   "cuadro": 82,
+   "bloque": 0
+  },
+  {
+   "palabra": "lo",
+   "inicio": 3.38,
+   "fin": 3.44,
+   "cuadro": 101,
+   "bloque": 0
+  },
+  {
+   "palabra": "más",
+   "inicio": 3.44,
+   "fin": 3.7,
+   "cuadro": 103,
+   "bloque": 0
+  },
+  {
+   "palabra": "difícil",
+   "inicio": 3.7,
+   "fin": 4.08,
+   "cuadro": 111,
+   "bloque": 0
+  },
+  {
+   "palabra": "no",
+   "inicio": 4.08,
+   "fin": 4.42,
+   "cuadro": 122,
+   "bloque": 0
+  },
+  {
+   "palabra": "fue",
+   "inicio": 4.42,
+   "fin": 4.56,
+   "cuadro": 133,
+   "bloque": 0
+  },
+  {
+   "palabra": "matarlo:",
+   "inicio": 4.56,
+   "fin": 5.06,
+   "cuadro": 137,
+   "bloque": 0
+  },
+  {
+   "palabra": "fue",
+   "inicio": 5.22,
+   "fin": 5.42,
+   "cuadro": 157,
+   "bloque": 0
+  },
+  {
+   "palabra": "llegar",
+   "inicio": 5.42,
+   "fin": 5.86,
+   "cuadro": 163,
+   "bloque": 0
+  },
+  {
+   "palabra": "hasta",
+   "inicio": 5.86,
+   "fin": 6.14,
+   "cuadro": 176,
+   "bloque": 0
+  },
+  {
+   "palabra": "él.",
+   "inicio": 6.14,
+   "fin": 6.36,
+   "cuadro": 184,
+   "bloque": 0
+  },
+  {
+   "palabra": "Teseo",
+   "inicio": 6.42,
+   "fin": 6.84,
+   "cuadro": 193,
+   "bloque": 1
+  },
+  {
+   "palabra": "es",
+   "inicio": 6.84,
+   "fin": 7.0,
+   "cuadro": 205,
+   "bloque": 1
+  },
+  {
+   "palabra": "el",
+   "inicio": 7.0,
+   "fin": 7.2,
+   "cuadro": 210,
+   "bloque": 1
+  },
+  {
+   "palabra": "príncipe",
+   "inicio": 7.2,
+   "fin": 7.54,
+   "cuadro": 216,
+   "bloque": 1
+  },
+  {
+   "palabra": "de",
+   "inicio": 7.54,
+   "fin": 7.7,
+   "cuadro": 226,
+   "bloque": 1
+  },
+  {
+   "palabra": "Atenas,",
+   "inicio": 7.7,
+   "fin": 8.3,
+   "cuadro": 231,
+   "bloque": 1
+  },
+  {
+   "palabra": "hijo",
+   "inicio": 8.44,
+   "fin": 8.66,
+   "cuadro": 253,
+   "bloque": 1
+  },
+  {
+   "palabra": "del",
+   "inicio": 8.66,
+   "fin": 8.9,
+   "cuadro": 260,
+   "bloque": 1
+  },
+  {
+   "palabra": "rey",
+   "inicio": 8.9,
+   "fin": 9.14,
+   "cuadro": 267,
+   "bloque": 1
+  },
+  {
+   "palabra": "Egeo.",
+   "inicio": 9.14,
+   "fin": 9.48,
+   "cuadro": 274,
+   "bloque": 1
+  },
+  {
+   "palabra": "De",
+   "inicio": 9.56,
+   "fin": 9.76,
+   "cuadro": 287,
+   "bloque": 1
+  },
+  {
+   "palabra": "joven",
+   "inicio": 9.76,
+   "fin": 10.24,
+   "cuadro": 293,
+   "bloque": 1
+  },
+  {
+   "palabra": "levantó",
+   "inicio": 10.38,
+   "fin": 10.68,
+   "cuadro": 311,
+   "bloque": 1
+  },
+  {
+   "palabra": "una",
+   "inicio": 10.68,
+   "fin": 10.9,
+   "cuadro": 320,
+   "bloque": 1
+  },
+  {
+   "palabra": "roca",
+   "inicio": 10.9,
+   "fin": 11.24,
+   "cuadro": 327,
+   "bloque": 1
+  },
+  {
+   "palabra": "enorme",
+   "inicio": 11.24,
+   "fin": 11.7,
+   "cuadro": 337,
+   "bloque": 1
+  },
+  {
+   "palabra": "para",
+   "inicio": 11.7,
+   "fin": 11.98,
+   "cuadro": 351,
+   "bloque": 1
+  },
+  {
+   "palabra": "recuperar",
+   "inicio": 11.98,
+   "fin": 12.52,
+   "cuadro": 359,
+   "bloque": 1
+  },
+  {
+   "palabra": "la",
+   "inicio": 12.52,
+   "fin": 12.64,
+   "cuadro": 376,
+   "bloque": 1
+  },
+  {
+   "palabra": "espada",
+   "inicio": 12.64,
+   "fin": 12.94,
+   "cuadro": 379,
+   "bloque": 1
+  },
+  {
+   "palabra": "de",
+   "inicio": 12.94,
+   "fin": 13.14,
+   "cuadro": 388,
+   "bloque": 1
+  },
+  {
+   "palabra": "su",
+   "inicio": 13.14,
+   "fin": 13.26,
+   "cuadro": 394,
+   "bloque": 1
+  },
+  {
+   "palabra": "padre,",
+   "inicio": 13.26,
+   "fin": 13.5,
+   "cuadro": 398,
+   "bloque": 1
+  },
+  {
+   "palabra": "y",
+   "inicio": 13.5,
+   "fin": 13.76,
+   "cuadro": 405,
+   "bloque": 1
+  },
+  {
+   "palabra": "venció",
+   "inicio": 13.76,
+   "fin": 14.1,
+   "cuadro": 413,
+   "bloque": 1
+  },
+  {
+   "palabra": "a",
+   "inicio": 14.1,
+   "fin": 14.18,
+   "cuadro": 423,
+   "bloque": 1
+  },
+  {
+   "palabra": "los",
+   "inicio": 14.18,
+   "fin": 14.3,
+   "cuadro": 425,
+   "bloque": 1
+  },
+  {
+   "palabra": "bandidos",
+   "inicio": 14.3,
+   "fin": 14.82,
+   "cuadro": 429,
+   "bloque": 1
+  },
+  {
+   "palabra": "más",
+   "inicio": 14.82,
+   "fin": 15.2,
+   "cuadro": 445,
+   "bloque": 1
+  },
+  {
+   "palabra": "temidos",
+   "inicio": 15.2,
+   "fin": 15.62,
+   "cuadro": 456,
+   "bloque": 1
+  },
+  {
+   "palabra": "de",
+   "inicio": 15.62,
+   "fin": 15.86,
+   "cuadro": 469,
+   "bloque": 1
+  },
+  {
+   "palabra": "Grecia.",
+   "inicio": 15.86,
+   "fin": 16.16,
+   "cuadro": 476,
+   "bloque": 1
+  },
+  {
+   "palabra": "Pero",
+   "inicio": 16.24,
+   "fin": 16.4,
+   "cuadro": 487,
+   "bloque": 2
+  },
+  {
+   "palabra": "en",
+   "inicio": 16.4,
+   "fin": 16.62,
+   "cuadro": 492,
+   "bloque": 2
+  },
+  {
+   "palabra": "Creta,",
+   "inicio": 16.62,
+   "fin": 17.08,
+   "cuadro": 499,
+   "bloque": 2
+  },
+  {
+   "palabra": "el",
+   "inicio": 17.28,
+   "fin": 17.38,
+   "cuadro": 518,
+   "bloque": 2
+  },
+  {
+   "palabra": "rey",
+   "inicio": 17.38,
+   "fin": 17.68,
+   "cuadro": 521,
+   "bloque": 2
+  },
+  {
+   "palabra": "Minos",
+   "inicio": 17.68,
+   "fin": 17.94,
+   "cuadro": 530,
+   "bloque": 2
+  },
+  {
+   "palabra": "obliga",
+   "inicio": 17.94,
+   "fin": 18.4,
+   "cuadro": 538,
+   "bloque": 2
+  },
+  {
+   "palabra": "a",
+   "inicio": 18.4,
+   "fin": 18.48,
+   "cuadro": 552,
+   "bloque": 2
+  },
+  {
+   "palabra": "Atenas",
+   "inicio": 18.48,
+   "fin": 18.8,
+   "cuadro": 554,
+   "bloque": 2
+  },
+  {
+   "palabra": "a",
+   "inicio": 18.8,
+   "fin": 18.96,
+   "cuadro": 564,
+   "bloque": 2
+  },
+  {
+   "palabra": "mandar",
+   "inicio": 18.96,
+   "fin": 19.22,
+   "cuadro": 569,
+   "bloque": 2
+  },
+  {
+   "palabra": "catorce",
+   "inicio": 19.22,
+   "fin": 19.82,
+   "cuadro": 577,
+   "bloque": 2
+  },
+  {
+   "palabra": "jóvenes",
+   "inicio": 19.82,
+   "fin": 20.14,
+   "cuadro": 595,
+   "bloque": 2
+  },
+  {
+   "palabra": "a",
+   "inicio": 20.14,
+   "fin": 20.36,
+   "cuadro": 604,
+   "bloque": 2
+  },
+  {
+   "palabra": "su",
+   "inicio": 20.36,
+   "fin": 20.46,
+   "cuadro": 611,
+   "bloque": 2
+  },
+  {
+   "palabra": "laberinto.",
+   "inicio": 20.46,
+   "fin": 20.94,
+   "cuadro": 614,
+   "bloque": 2
+  },
+  {
+   "palabra": "Ninguno",
+   "inicio": 21.3,
+   "fin": 21.66,
+   "cuadro": 639,
+   "bloque": 2
+  },
+  {
+   "palabra": "vuelve.",
+   "inicio": 21.66,
+   "fin": 22.1,
+   "cuadro": 650,
+   "bloque": 2
+  },
+  {
+   "palabra": "Dentro",
+   "inicio": 22.26,
+   "fin": 22.78,
+   "cuadro": 668,
+   "bloque": 2
+  },
+  {
+   "palabra": "vive",
+   "inicio": 22.78,
+   "fin": 23.04,
+   "cuadro": 683,
+   "bloque": 2
+  },
+  {
+   "palabra": "el",
+   "inicio": 23.04,
+   "fin": 23.24,
+   "cuadro": 691,
+   "bloque": 2
+  },
+  {
+   "palabra": "Minotauro.",
+   "inicio": 23.24,
+   "fin": 23.74,
+   "cuadro": 697,
+   "bloque": 2
+  },
+  {
+   "palabra": "Y",
+   "inicio": 23.82,
+   "fin": 23.94,
+   "cuadro": 715,
+   "bloque": 2
+  },
+  {
+   "palabra": "el",
+   "inicio": 23.94,
+   "fin": 24.06,
+   "cuadro": 718,
+   "bloque": 2
+  },
+  {
+   "palabra": "laberinto",
+   "inicio": 24.06,
+   "fin": 24.4,
+   "cuadro": 722,
+   "bloque": 2
+  },
+  {
+   "palabra": "es",
+   "inicio": 24.4,
+   "fin": 24.64,
+   "cuadro": 732,
+   "bloque": 2
+  },
+  {
+   "palabra": "tan",
+   "inicio": 24.64,
+   "fin": 24.78,
+   "cuadro": 739,
+   "bloque": 2
+  },
+  {
+   "palabra": "enredado",
+   "inicio": 24.78,
+   "fin": 25.38,
+   "cuadro": 743,
+   "bloque": 2
+  },
+  {
+   "palabra": "que",
+   "inicio": 25.38,
+   "fin": 25.58,
+   "cuadro": 761,
+   "bloque": 2
+  },
+  {
+   "palabra": "ni",
+   "inicio": 25.58,
+   "fin": 25.725,
+   "cuadro": 767,
+   "bloque": 2
+  },
+  {
+   "palabra": "Dédalo,",
+   "inicio": 25.725,
+   "fin": 26.16,
+   "cuadro": 772,
+   "bloque": 2
+  },
+  {
+   "palabra": "quien",
+   "inicio": 26.16,
+   "fin": 26.4,
+   "cuadro": 785,
+   "bloque": 2
+  },
+  {
+   "palabra": "lo",
+   "inicio": 26.4,
+   "fin": 26.74,
+   "cuadro": 792,
+   "bloque": 2
+  },
+  {
+   "palabra": "construyó,",
+   "inicio": 26.74,
+   "fin": 27.22,
+   "cuadro": 802,
+   "bloque": 2
+  },
+  {
+   "palabra": "encontraba",
+   "inicio": 27.66,
+   "fin": 27.9,
+   "cuadro": 830,
+   "bloque": 2
+  },
+  {
+   "palabra": "la",
+   "inicio": 27.9,
+   "fin": 28.08,
+   "cuadro": 837,
+   "bloque": 2
+  },
+  {
+   "palabra": "salida.",
+   "inicio": 28.08,
+   "fin": 28.4,
+   "cuadro": 842,
+   "bloque": 2
+  },
+  {
+   "palabra": "Teseo",
+   "inicio": 28.4,
+   "fin": 28.94,
+   "cuadro": 852,
+   "bloque": 2
+  },
+  {
+   "palabra": "se",
+   "inicio": 28.94,
+   "fin": 29.1,
+   "cuadro": 868,
+   "bloque": 2
+  },
+  {
+   "palabra": "ofrece",
+   "inicio": 29.1,
+   "fin": 29.38,
+   "cuadro": 873,
+   "bloque": 2
+  },
+  {
+   "palabra": "voluntario.",
+   "inicio": 29.38,
+   "fin": 30.04,
+   "cuadro": 881,
+   "bloque": 2
+  },
+  {
+   "palabra": "Ariadna,",
+   "inicio": 30.32,
+   "fin": 30.76,
+   "cuadro": 910,
+   "bloque": 2
+  },
+  {
+   "palabra": "la",
+   "inicio": 30.92,
+   "fin": 31.04,
+   "cuadro": 928,
+   "bloque": 2
+  },
+  {
+   "palabra": "hija",
+   "inicio": 31.04,
+   "fin": 31.26,
+   "cuadro": 931,
+   "bloque": 2
+  },
+  {
+   "palabra": "de",
+   "inicio": 31.26,
+   "fin": 31.4,
+   "cuadro": 938,
+   "bloque": 2
+  },
+  {
+   "palabra": "Minos,",
+   "inicio": 31.4,
+   "fin": 31.76,
+   "cuadro": 942,
+   "bloque": 2
+  },
+  {
+   "palabra": "le",
+   "inicio": 31.86,
+   "fin": 32.0,
+   "cuadro": 956,
+   "bloque": 2
+  },
+  {
+   "palabra": "da",
+   "inicio": 32.0,
+   "fin": 32.1,
+   "cuadro": 960,
+   "bloque": 2
+  },
+  {
+   "palabra": "un",
+   "inicio": 32.1,
+   "fin": 32.28,
+   "cuadro": 963,
+   "bloque": 2
+  },
+  {
+   "palabra": "ovillo",
+   "inicio": 32.28,
+   "fin": 32.62,
+   "cuadro": 968,
+   "bloque": 2
+  },
+  {
+   "palabra": "de",
+   "inicio": 32.62,
+   "fin": 32.86,
+   "cuadro": 979,
+   "bloque": 2
+  },
+  {
+   "palabra": "hilo:",
+   "inicio": 32.86,
+   "fin": 33.02,
+   "cuadro": 986,
+   "bloque": 2
+  },
+  {
+   "palabra": "«Átalo",
+   "inicio": 33.16,
+   "fin": 33.46,
+   "cuadro": 995,
+   "bloque": 2
+  },
+  {
+   "palabra": "en",
+   "inicio": 33.46,
+   "fin": 33.62,
+   "cuadro": 1004,
+   "bloque": 2
+  },
+  {
+   "palabra": "la",
+   "inicio": 33.62,
+   "fin": 33.82,
+   "cuadro": 1009,
+   "bloque": 2
+  },
+  {
+   "palabra": "entrada",
+   "inicio": 33.82,
+   "fin": 34.04,
+   "cuadro": 1015,
+   "bloque": 2
+  },
+  {
+   "palabra": "y",
+   "inicio": 34.04,
+   "fin": 34.44,
+   "cuadro": 1021,
+   "bloque": 2
+  },
+  {
+   "palabra": "no",
+   "inicio": 34.44,
+   "fin": 34.58,
+   "cuadro": 1033,
+   "bloque": 2
+  },
+  {
+   "palabra": "lo",
+   "inicio": 34.58,
+   "fin": 34.8,
+   "cuadro": 1037,
+   "bloque": 2
+  },
+  {
+   "palabra": "sueltes».",
+   "inicio": 34.8,
+   "fin": 35.26,
+   "cuadro": 1044,
+   "bloque": 2
+  },
+  {
+   "palabra": "Teseo",
+   "inicio": 35.46,
+   "fin": 35.84,
+   "cuadro": 1064,
+   "bloque": 3
+  },
+  {
+   "palabra": "avanza",
+   "inicio": 35.84,
+   "fin": 36.24,
+   "cuadro": 1075,
+   "bloque": 3
+  },
+  {
+   "palabra": "a",
+   "inicio": 36.24,
+   "fin": 36.42,
+   "cuadro": 1087,
+   "bloque": 3
+  },
+  {
+   "palabra": "oscuras.",
+   "inicio": 36.42,
+   "fin": 36.9,
+   "cuadro": 1093,
+   "bloque": 3
+  },
+  {
+   "palabra": "Gira.",
+   "inicio": 37.18,
+   "fin": 37.44,
+   "cuadro": 1115,
+   "bloque": 3
+  },
+  {
+   "palabra": "Gira",
+   "inicio": 37.7,
+   "fin": 37.88,
+   "cuadro": 1131,
+   "bloque": 3
+  },
+  {
+   "palabra": "otra",
+   "inicio": 37.88,
+   "fin": 38.16,
+   "cuadro": 1136,
+   "bloque": 3
+  },
+  {
+   "palabra": "vez.",
+   "inicio": 38.16,
+   "fin": 38.36,
+   "cuadro": 1145,
+   "bloque": 3
+  },
+  {
+   "palabra": "Y",
+   "inicio": 38.36,
+   "fin": 38.7,
+   "cuadro": 1151,
+   "bloque": 3
+  },
+  {
+   "palabra": "oye",
+   "inicio": 38.7,
+   "fin": 38.94,
+   "cuadro": 1161,
+   "bloque": 3
+  },
+  {
+   "palabra": "algo",
+   "inicio": 38.94,
+   "fin": 39.16,
+   "cuadro": 1168,
+   "bloque": 3
+  },
+  {
+   "palabra": "enorme",
+   "inicio": 39.16,
+   "fin": 39.72,
+   "cuadro": 1175,
+   "bloque": 3
+  },
+  {
+   "palabra": "respirar.",
+   "inicio": 39.72,
+   "fin": 40.44,
+   "cuadro": 1192,
+   "bloque": 3
+  },
+  {
+   "palabra": "Espera…",
+   "inicio": 40.58,
+   "fin": 40.94,
+   "cuadro": 1217,
+   "bloque": 3
+  },
+  {
+   "palabra": "¿y",
+   "inicio": 40.96,
+   "fin": 41.14,
+   "cuadro": 1229,
+   "bloque": 3
+  },
+  {
+   "palabra": "si",
+   "inicio": 41.14,
+   "fin": 41.3,
+   "cuadro": 1234,
+   "bloque": 3
+  },
+  {
+   "palabra": "esta",
+   "inicio": 41.3,
+   "fin": 41.48,
+   "cuadro": 1239,
+   "bloque": 3
+  },
+  {
+   "palabra": "historia",
+   "inicio": 41.48,
+   "fin": 41.84,
+   "cuadro": 1244,
+   "bloque": 3
+  },
+  {
+   "palabra": "no",
+   "inicio": 41.84,
+   "fin": 42.14,
+   "cuadro": 1255,
+   "bloque": 3
+  },
+  {
+   "palabra": "va",
+   "inicio": 42.14,
+   "fin": 42.3,
+   "cuadro": 1264,
+   "bloque": 3
+  },
+  {
+   "palabra": "de",
+   "inicio": 42.3,
+   "fin": 42.44,
+   "cuadro": 1269,
+   "bloque": 3
+  },
+  {
+   "palabra": "un",
+   "inicio": 42.44,
+   "fin": 42.64,
+   "cuadro": 1273,
+   "bloque": 3
+  },
+  {
+   "palabra": "toro?",
+   "inicio": 42.64,
+   "fin": 42.76,
+   "cuadro": 1279,
+   "bloque": 3
+  },
+  {
+   "palabra": "Fíjate:",
+   "inicio": 42.94,
+   "fin": 43.38,
+   "cuadro": 1288,
+   "bloque": 4
+  },
+  {
+   "palabra": "el",
+   "inicio": 43.48,
+   "fin": 43.66,
+   "cuadro": 1304,
+   "bloque": 4
+  },
+  {
+   "palabra": "laberinto",
+   "inicio": 43.66,
+   "fin": 44.2,
+   "cuadro": 1310,
+   "bloque": 4
+  },
+  {
+   "palabra": "eres",
+   "inicio": 44.2,
+   "fin": 44.6,
+   "cuadro": 1326,
+   "bloque": 4
+  },
+  {
+   "palabra": "tú.",
+   "inicio": 44.6,
+   "fin": 44.8,
+   "cuadro": 1338,
+   "bloque": 4
+  },
+  {
+   "palabra": "Sus",
+   "inicio": 44.9,
+   "fin": 45.1,
+   "cuadro": 1347,
+   "bloque": 4
+  },
+  {
+   "palabra": "pasillos",
+   "inicio": 45.1,
+   "fin": 45.48,
+   "cuadro": 1353,
+   "bloque": 4
+  },
+  {
+   "palabra": "son",
+   "inicio": 45.48,
+   "fin": 45.8,
+   "cuadro": 1364,
+   "bloque": 4
+  },
+  {
+   "palabra": "todo",
+   "inicio": 45.8,
+   "fin": 46.02,
+   "cuadro": 1374,
+   "bloque": 4
+  },
+  {
+   "palabra": "lo",
+   "inicio": 46.02,
+   "fin": 46.18,
+   "cuadro": 1381,
+   "bloque": 4
+  },
+  {
+   "palabra": "que",
+   "inicio": 46.18,
+   "fin": 46.3,
+   "cuadro": 1385,
+   "bloque": 4
+  },
+  {
+   "palabra": "hacemos",
+   "inicio": 46.3,
+   "fin": 46.52,
+   "cuadro": 1389,
+   "bloque": 4
+  },
+  {
+   "palabra": "para",
+   "inicio": 46.52,
+   "fin": 46.84,
+   "cuadro": 1396,
+   "bloque": 4
+  },
+  {
+   "palabra": "no",
+   "inicio": 46.84,
+   "fin": 47.1,
+   "cuadro": 1405,
+   "bloque": 4
+  },
+  {
+   "palabra": "mirar",
+   "inicio": 47.1,
+   "fin": 47.38,
+   "cuadro": 1413,
+   "bloque": 4
+  },
+  {
+   "palabra": "lo",
+   "inicio": 47.38,
+   "fin": 47.5,
+   "cuadro": 1421,
+   "bloque": 4
+  },
+  {
+   "palabra": "que",
+   "inicio": 47.5,
+   "fin": 47.54,
+   "cuadro": 1425,
+   "bloque": 4
+  },
+  {
+   "palabra": "nos",
+   "inicio": 47.54,
+   "fin": 47.76,
+   "cuadro": 1426,
+   "bloque": 4
+  },
+  {
+   "palabra": "duele:",
+   "inicio": 47.76,
+   "fin": 48.04,
+   "cuadro": 1433,
+   "bloque": 4
+  },
+  {
+   "palabra": "el",
+   "inicio": 48.12,
+   "fin": 48.36,
+   "cuadro": 1444,
+   "bloque": 4
+  },
+  {
+   "palabra": "móvil",
+   "inicio": 48.36,
+   "fin": 48.58,
+   "cuadro": 1451,
+   "bloque": 4
+  },
+  {
+   "palabra": "a",
+   "inicio": 48.58,
+   "fin": 48.72,
+   "cuadro": 1457,
+   "bloque": 4
+  },
+  {
+   "palabra": "las",
+   "inicio": 48.72,
+   "fin": 48.88,
+   "cuadro": 1462,
+   "bloque": 4
+  },
+  {
+   "palabra": "tres",
+   "inicio": 48.88,
+   "fin": 49.0,
+   "cuadro": 1466,
+   "bloque": 4
+  },
+  {
+   "palabra": "de",
+   "inicio": 49.0,
+   "fin": 49.1,
+   "cuadro": 1470,
+   "bloque": 4
+  },
+  {
+   "palabra": "la",
+   "inicio": 49.1,
+   "fin": 49.34,
+   "cuadro": 1473,
+   "bloque": 4
+  },
+  {
+   "palabra": "mañana,",
+   "inicio": 49.34,
+   "fin": 49.64,
+   "cuadro": 1480,
+   "bloque": 4
+  },
+  {
+   "palabra": "un",
+   "inicio": 49.94,
+   "fin": 50.14,
+   "cuadro": 1498,
+   "bloque": 4
+  },
+  {
+   "palabra": "capítulo",
+   "inicio": 50.14,
+   "fin": 50.52,
+   "cuadro": 1504,
+   "bloque": 4
+  },
+  {
+   "palabra": "más,",
+   "inicio": 50.52,
+   "fin": 50.86,
+   "cuadro": 1516,
+   "bloque": 4
+  },
+  {
+   "palabra": "decir",
+   "inicio": 51.18,
+   "fin": 51.62,
+   "cuadro": 1535,
+   "bloque": 4
+  },
+  {
+   "palabra": "«estoy",
+   "inicio": 51.76,
+   "fin": 51.86,
+   "cuadro": 1553,
+   "bloque": 4
+  },
+  {
+   "palabra": "bien»",
+   "inicio": 51.86,
+   "fin": 52.24,
+   "cuadro": 1556,
+   "bloque": 4
+  },
+  {
+   "palabra": "cuando",
+   "inicio": 52.42,
+   "fin": 52.6,
+   "cuadro": 1573,
+   "bloque": 4
+  },
+  {
+   "palabra": "no",
+   "inicio": 52.6,
+   "fin": 52.84,
+   "cuadro": 1578,
+   "bloque": 4
+  },
+  {
+   "palabra": "lo",
+   "inicio": 52.84,
+   "fin": 53.06,
+   "cuadro": 1585,
+   "bloque": 4
+  },
+  {
+   "palabra": "estás.",
+   "inicio": 53.06,
+   "fin": 53.24,
+   "cuadro": 1592,
+   "bloque": 4
+  },
+  {
+   "palabra": "En",
+   "inicio": 53.24,
+   "fin": 53.58,
+   "cuadro": 1597,
+   "bloque": 4
+  },
+  {
+   "palabra": "el",
+   "inicio": 53.58,
+   "fin": 53.8,
+   "cuadro": 1607,
+   "bloque": 4
+  },
+  {
+   "palabra": "centro",
+   "inicio": 53.8,
+   "fin": 54.04,
+   "cuadro": 1614,
+   "bloque": 4
+  },
+  {
+   "palabra": "espera",
+   "inicio": 54.04,
+   "fin": 54.46,
+   "cuadro": 1621,
+   "bloque": 4
+  },
+  {
+   "palabra": "tu",
+   "inicio": 54.46,
+   "fin": 54.74,
+   "cuadro": 1634,
+   "bloque": 4
+  },
+  {
+   "palabra": "Minotauro:",
+   "inicio": 54.74,
+   "fin": 55.36,
+   "cuadro": 1642,
+   "bloque": 4
+  },
+  {
+   "palabra": "ese",
+   "inicio": 55.56,
+   "fin": 55.7,
+   "cuadro": 1667,
+   "bloque": 4
+  },
+  {
+   "palabra": "miedo,",
+   "inicio": 55.7,
+   "fin": 56.08,
+   "cuadro": 1671,
+   "bloque": 4
+  },
+  {
+   "palabra": "esa",
+   "inicio": 56.5,
+   "fin": 56.7,
+   "cuadro": 1695,
+   "bloque": 4
+  },
+  {
+   "palabra": "culpa,",
+   "inicio": 56.7,
+   "fin": 57.04,
+   "cuadro": 1701,
+   "bloque": 4
+  },
+  {
+   "palabra": "esa",
+   "inicio": 57.6,
+   "fin": 57.6,
+   "cuadro": 1728,
+   "bloque": 4
+  },
+  {
+   "palabra": "conversación",
+   "inicio": 57.6,
+   "fin": 58.1,
+   "cuadro": 1728,
+   "bloque": 4
+  },
+  {
+   "palabra": "pendiente.",
+   "inicio": 58.1,
+   "fin": 58.66,
+   "cuadro": 1743,
+   "bloque": 4
+  },
+  {
+   "palabra": "Jung",
+   "inicio": 58.98,
+   "fin": 59.14,
+   "cuadro": 1769,
+   "bloque": 4
+  },
+  {
+   "palabra": "lo",
+   "inicio": 59.14,
+   "fin": 59.44,
+   "cuadro": 1774,
+   "bloque": 4
+  },
+  {
+   "palabra": "llamaba",
+   "inicio": 59.44,
+   "fin": 59.88,
+   "cuadro": 1783,
+   "bloque": 4
+  },
+  {
+   "palabra": "la",
+   "inicio": 59.88,
+   "fin": 60.22,
+   "cuadro": 1796,
+   "bloque": 4
+  },
+  {
+   "palabra": "sombra.",
+   "inicio": 60.22,
+   "fin": 60.64,
+   "cuadro": 1807,
+   "bloque": 4
+  },
+  {
+   "palabra": "Pero",
+   "inicio": 60.76,
+   "fin": 60.94,
+   "cuadro": 1823,
+   "bloque": 4
+  },
+  {
+   "palabra": "dentro",
+   "inicio": 60.94,
+   "fin": 61.24,
+   "cuadro": 1828,
+   "bloque": 4
+  },
+  {
+   "palabra": "de",
+   "inicio": 61.24,
+   "fin": 61.46,
+   "cuadro": 1837,
+   "bloque": 4
+  },
+  {
+   "palabra": "ti",
+   "inicio": 61.46,
+   "fin": 61.64,
+   "cuadro": 1844,
+   "bloque": 4
+  },
+  {
+   "palabra": "también",
+   "inicio": 61.64,
+   "fin": 62.16,
+   "cuadro": 1849,
+   "bloque": 4
+  },
+  {
+   "palabra": "vive",
+   "inicio": 62.16,
+   "fin": 62.38,
+   "cuadro": 1865,
+   "bloque": 4
+  },
+  {
+   "palabra": "un",
+   "inicio": 62.38,
+   "fin": 62.58,
+   "cuadro": 1871,
+   "bloque": 4
+  },
+  {
+   "palabra": "Teseo:",
+   "inicio": 62.58,
+   "fin": 63.0,
+   "cuadro": 1877,
+   "bloque": 4
+  },
+  {
+   "palabra": "la",
+   "inicio": 63.08,
+   "fin": 63.22,
+   "cuadro": 1892,
+   "bloque": 4
+  },
+  {
+   "palabra": "parte",
+   "inicio": 63.22,
+   "fin": 63.48,
+   "cuadro": 1897,
+   "bloque": 4
+  },
+  {
+   "palabra": "valiente",
+   "inicio": 63.48,
+   "fin": 64.02,
+   "cuadro": 1904,
+   "bloque": 4
+  },
+  {
+   "palabra": "que",
+   "inicio": 64.02,
+   "fin": 64.18,
+   "cuadro": 1921,
+   "bloque": 4
+  },
+  {
+   "palabra": "tiene",
+   "inicio": 64.18,
+   "fin": 64.34,
+   "cuadro": 1925,
+   "bloque": 4
+  },
+  {
+   "palabra": "que",
+   "inicio": 64.34,
+   "fin": 64.62,
+   "cuadro": 1930,
+   "bloque": 4
+  },
+  {
+   "palabra": "entrar",
+   "inicio": 64.62,
+   "fin": 64.86,
+   "cuadro": 1939,
+   "bloque": 4
+  },
+  {
+   "palabra": "y",
+   "inicio": 64.86,
+   "fin": 65.14,
+   "cuadro": 1946,
+   "bloque": 4
+  },
+  {
+   "palabra": "vencerlo.",
+   "inicio": 65.14,
+   "fin": 65.66,
+   "cuadro": 1954,
+   "bloque": 4
+  },
+  {
+   "palabra": "Mientras",
+   "inicio": 65.8,
+   "fin": 66.1,
+   "cuadro": 1974,
+   "bloque": 4
+  },
+  {
+   "palabra": "huyes,",
+   "inicio": 66.1,
+   "fin": 66.54,
+   "cuadro": 1983,
+   "bloque": 4
+  },
+  {
+   "palabra": "el",
+   "inicio": 66.78,
+   "fin": 66.86,
+   "cuadro": 2003,
+   "bloque": 4
+  },
+  {
+   "palabra": "monstruo",
+   "inicio": 66.86,
+   "fin": 67.4,
+   "cuadro": 2006,
+   "bloque": 4
+  },
+  {
+   "palabra": "crece.",
+   "inicio": 67.4,
+   "fin": 67.68,
+   "cuadro": 2022,
+   "bloque": 4
+  },
+  {
+   "palabra": "Cuando",
+   "inicio": 67.82,
+   "fin": 67.96,
+   "cuadro": 2035,
+   "bloque": 4
+  },
+  {
+   "palabra": "lo",
+   "inicio": 67.96,
+   "fin": 68.16,
+   "cuadro": 2039,
+   "bloque": 4
+  },
+  {
+   "palabra": "miras",
+   "inicio": 68.16,
+   "fin": 68.4,
+   "cuadro": 2045,
+   "bloque": 4
+  },
+  {
+   "palabra": "de",
+   "inicio": 68.4,
+   "fin": 68.58,
+   "cuadro": 2052,
+   "bloque": 4
+  },
+  {
+   "palabra": "frente,",
+   "inicio": 68.58,
+   "fin": 68.88,
+   "cuadro": 2057,
+   "bloque": 4
+  },
+  {
+   "palabra": "vuelve",
+   "inicio": 69.22,
+   "fin": 69.48,
+   "cuadro": 2077,
+   "bloque": 4
+  },
+  {
+   "palabra": "a",
+   "inicio": 69.48,
+   "fin": 69.52,
+   "cuadro": 2084,
+   "bloque": 4
+  },
+  {
+   "palabra": "su",
+   "inicio": 69.52,
+   "fin": 69.64,
+   "cuadro": 2086,
+   "bloque": 4
+  },
+  {
+   "palabra": "tamaño",
+   "inicio": 69.64,
+   "fin": 70.0,
+   "cuadro": 2089,
+   "bloque": 4
+  },
+  {
+   "palabra": "real.",
+   "inicio": 70.0,
+   "fin": 70.28,
+   "cuadro": 2100,
+   "bloque": 4
+  },
+  {
+   "palabra": "Lo",
+   "inicio": 70.4,
+   "fin": 70.56,
+   "cuadro": 2112,
+   "bloque": 5
+  },
+  {
+   "palabra": "irónico",
+   "inicio": 70.56,
+   "fin": 70.94,
+   "cuadro": 2117,
+   "bloque": 5
+  },
+  {
+   "palabra": "es",
+   "inicio": 70.94,
+   "fin": 71.14,
+   "cuadro": 2128,
+   "bloque": 5
+  },
+  {
+   "palabra": "que,",
+   "inicio": 71.14,
+   "fin": 71.42,
+   "cuadro": 2134,
+   "bloque": 5
+  },
+  {
+   "palabra": "para",
+   "inicio": 71.56,
+   "fin": 71.68,
+   "cuadro": 2147,
+   "bloque": 5
+  },
+  {
+   "palabra": "salir",
+   "inicio": 71.68,
+   "fin": 71.98,
+   "cuadro": 2150,
+   "bloque": 5
+  },
+  {
+   "palabra": "del",
+   "inicio": 71.98,
+   "fin": 72.14,
+   "cuadro": 2159,
+   "bloque": 5
+  },
+  {
+   "palabra": "laberinto,",
+   "inicio": 72.14,
+   "fin": 72.74,
+   "cuadro": 2164,
+   "bloque": 5
+  },
+  {
+   "palabra": "primero",
+   "inicio": 73.06,
+   "fin": 73.3,
+   "cuadro": 2192,
+   "bloque": 5
+  },
+  {
+   "palabra": "hay",
+   "inicio": 73.3,
+   "fin": 73.52,
+   "cuadro": 2199,
+   "bloque": 5
+  },
+  {
+   "palabra": "que",
+   "inicio": 73.52,
+   "fin": 73.66,
+   "cuadro": 2206,
+   "bloque": 5
+  },
+  {
+   "palabra": "llegar",
+   "inicio": 73.66,
+   "fin": 73.88,
+   "cuadro": 2210,
+   "bloque": 5
+  },
+  {
+   "palabra": "al",
+   "inicio": 73.88,
+   "fin": 74.08,
+   "cuadro": 2216,
+   "bloque": 5
+  },
+  {
+   "palabra": "centro.",
+   "inicio": 74.08,
+   "fin": 74.34,
+   "cuadro": 2222,
+   "bloque": 5
+  }
+ ]
+}
